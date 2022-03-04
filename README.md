@@ -7,4 +7,5 @@ Publico Objetivo
 ![plot](https://github.com/pedrog93/FrontEndSemana1/blob/main/Images/targetPublic.png)
 
 Link para Wireframe  
-https://miro.com/app/board/uXjVOIUAvqI=/![Uploading image.png…]
+https://balsamiq.cloud/sqgr80m/pgjrci1/rE39C
+
